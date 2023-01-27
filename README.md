@@ -3,9 +3,11 @@
 ## Olá, Eu sou o Lucas Freitas, Técnico em Eletrônica e Futuro Engenheiro...
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://www.svgrepo.com/show/353423/arduino.svg">
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Cmaismais" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg">
+  <img align="center" alt="Esp32" height="30" width="30" src="https://seeklogo.com/images/E/espressif-systems-logo-1350B9E771-seeklogo.com.png">
+  <img align="center" alt="Arduino" height="30" width="40" src="https://www.svgrepo.com/show/353423/arduino.svg">
+  <img align="center" alt="Proteus" height="27" width="36" src="https://upload.wikimedia.org/wikipedia/en/5/5a/Proteus_Design_Suite_Atom_Logo.png">
   <img align="right" height="250" alt="coding-time" src="eletronic.gif">
 </div>
 
