@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=header"/>
 
-## Olá, Eu sou o Lucas Freitas, Técnico em Eletrônica e Futuro Engenheiro...
+## Olá, me chamo Lucas... Seja Bem Vindo!!!
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -13,7 +13,7 @@
 
 ##
 
-Sou estudante de engenharia eletrônica com habilidades em programação e projetos eletrônicos. Tenho experiência em trabalhos de equipe e projetos práticos, incluindo a criação de protótipos e a resolução de problemas. Estou sempre buscando aprender e me desenvolver...
+Sou Técnico em Eletrônica e em Automação Industrial, e atualmente estudante de engenharia eletrônica com habilidades em programação e projetos eletrônicos. Tenho experiência em trabalhos de equipe e projetos práticos, incluindo a criação de protótipos e a resolução de problemas. Estou sempre buscando aprender e me desenvolver...
   
   ##
  
