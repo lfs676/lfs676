@@ -13,8 +13,8 @@
 
 ##
 <div>
-  <div align="justify">
-Sou Técnico em Eletrônica e em Automação Industrial, e atualmente estudante de engenharia eletrônica com habilidades em programação e projetos eletrônicos. Tenho experiência em trabalhos de equipe e projetos práticos, incluindo a criação de protótipos e a resolução de problemas. Estou sempre buscando aprender e me desenvolver...
+  <div align="center">
+Sou Técnico em Eletrônica e em Automação Industrial, e atualmente estudante de<br> engenharia eletrônica com habilidades em programação e projetos eletrônicos. <br>Tenho experiência em trabalhos de equipe e projetos práticos, incluindo a criação de <br>protótipos e a resolução de problemas. Estou sempre buscando aprender e me <br>desenvolver...
   
   ##
  
