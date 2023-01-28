@@ -8,13 +8,13 @@
   <img align="center" alt="Esp32" height="30" width="30" src="https://seeklogo.com/images/E/espressif-systems-logo-1350B9E771-seeklogo.com.png">
   <img align="center" alt="Arduino" height="30" width="40" src="https://www.svgrepo.com/show/353423/arduino.svg">
   <img align="center" alt="Proteus" height="27" width="36" src="https://upload.wikimedia.org/wikipedia/en/5/5a/Proteus_Design_Suite_Atom_Logo.png">
-  <img align="right" height="250" alt="coding-time" src="eletronic.gif">
+  <img align="right" height="240" alt="coding-time" src="eletronic.gif">
 </div>
 
 ##
 <div>
-  <div align="center">
-Sou Técnico em Eletrônica e em Automação Industrial, e atualmente estudante de<br> engenharia eletrônica com habilidades em programação e projetos eletrônicos. <br>Tenho experiência em trabalhos de equipe e projetos práticos, incluindo a criação de <br>protótipos e a resolução de problemas. Estou sempre buscando aprender e me <br>desenvolver...
+  <div align="justify">
+Sou Técnico em Eletrônica e em Automação Industrial, e atualmente estudante de engenharia eletrônica com habilidades em programação e projetos eletrônicos. Tenho experiência em trabalhos de equipe e projetos práticos, incluindo a criação de protótipos e a resolução de problemas. Estou sempre buscando aprender e me desenvolver...
   
   ##
  
