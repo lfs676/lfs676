@@ -29,10 +29,10 @@ Sou Técnico em Eletrônica e em Automação Industrial, e atualmente estudante 
   
 </div>
 
-<!-- <div align="center">
+<div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{carolbarbosa101}/count.svg" /></p> 
 <br>
-</div> -->
+</div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=footer"/>
