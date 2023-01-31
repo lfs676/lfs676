@@ -31,7 +31,7 @@ Sou Técnico em Eletrônica e em Automação Industrial, e atualmente estudante 
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{carolbarbosa101}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{lfs676}/count.svg" /></p> 
 <br>
 </div>
 
